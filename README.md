@@ -4,7 +4,7 @@ Yooniversal authentication.
 
 ## Features
 
-- [ ] Be an OAuth2 authentication server.
+- [x] Be an OAuth2 authentication server.
 - [ ] Allow user signup.
 - [ ] Allow user signup with associated e-mail.
 - [ ] Allow user signup with associated facebook, Google, or Twitter.
